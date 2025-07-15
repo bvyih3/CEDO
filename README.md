@@ -43,5 +43,5 @@ Set `DATASET` to a specfic dataset such as `slake`, `slake-cp`, `vqa-rad`, and `
 
 ## Model evaluation instruction
 ```
-    python main_arcface.py --name test-VQA --test
+    python main.py --name test-VQA --test
    ```
