@@ -45,10 +45,3 @@ Set `DATASET` to a specfic dataset such as `slake`, `slake-cp`, `vqa-rad`, and `
 ```
     python main_arcface.py --name test-VQA --test
    ```
-
-# Citation
-Please cite our paper if you find them helpful :)
-
-```
-
-```
